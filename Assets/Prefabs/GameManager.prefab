@@ -47,9 +47,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levels:
-  - Level 1
-  - Level 2
-  - Level 3
+  - KiprasP Mountains
+  - JustasB Sky Islands
+  - "Ignas \u010C. Cave"
   - Showcase
   hp: 3
   currentLevel: 0
